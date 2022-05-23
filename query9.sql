@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS numCities FROM offices;
